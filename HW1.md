@@ -18,9 +18,34 @@
 
 *role* - function assumed by persons
 
+*identity* - correspondance
 
+*trust* - whose failure can break the security policy
 
-##Notes
+*trustworthy* - one who failure will not break the security policy
 
-- cross disciplinary
-- 
+*Secrecy* - is a technical term that refers to the effect of the mechanisms used to limit the number of principals who can access information
+
+*Confidentiality* - involves an obligation to protect some other person’s or organization’s secrets if you know them.
+
+*Privacy* - is the ability and/or right to protect your personal secrets; it extends to the ability and/or right to prevent invasions of your personal space
+
+*Anonymity* - 
+
+*authenticity* - 
+
+*integrity* - 
+
+*vulnerability* - a property of a system or its environment
+
+*threat* - 
+
+*security failure* - things that dont follow the security policy 
+
+*security policy* - system's production strategy
+
+*security target* - means by which a security policy is implemented in a product
+
+*protection profile* - security target but is evaluatable
+
+*protection* - a property of a system
