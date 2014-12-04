@@ -54,7 +54,7 @@ Reading
 #Part2
 Source: http://www.ietf.org/rfc/rfc4949.txt
 
-1.
+Q1.
 *bind* - To inseparably associate by applying some security mechanism.
 
 *wrap* - To use cryptography to provide data confidentiality service for keying material.
@@ -67,7 +67,7 @@ Source: http://www.ietf.org/rfc/rfc4949.txt
 
 *zeroize* - Synonym for "erase"
 
-2.  
+Q2.  
 Star Trek attack
   (D) /slang/ An attack that penetrates your system where no attack has ever gone before.
 
@@ -75,7 +75,7 @@ Star Trek attack
 - Bug offers 
 - know your enemy?
 
-3. 
+Q3. 
 
--
+- 
 
