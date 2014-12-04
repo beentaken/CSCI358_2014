@@ -77,5 +77,33 @@ Star Trek attack
 
 Q3. 
 
-- 
+- crypto is fully defensive
+  - which contradicts the agreement since its mainly about offense
+- interfers with normal civil transactions and applications
 
+Q4. 
+
+a.
+
+- to have an overview of security in that year
+
+b.
+
+figure 11, page 20 (22/44)
+
+c.
+
+
+
+Q5.
+
+- allows for stealing information from the server by asking for more information than needed
+- SSL/TLS bug
+- leaks memory contents
+- existed for the long time
+- leaks
+  - pri key
+  - sec key
+  - protected content
+  - collateral
+- super wide spread
