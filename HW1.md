@@ -54,4 +54,28 @@ Reading
 Part2
 Source: http://www.ietf.org/rfc/rfc4949.txt
 
+1.
+*bind* - To inseparably associate by applying some security mechanism.
+
+*wrap* - To use cryptography to provide data confidentiality service for keying material.
+
+*seal* -  To use asymmetric cryptography to encrypt plain text with a public key in such a way that only the holder of the matching private key can learn what was the plain text
+
+*padding* - adding extra to the commication 
+
+*strength* - A cryptographic mechanism's level of resistance to attacks
+
+*zeroize* - Synonym for "erase"
+
+2.  
+Star Trek attack
+  (D) /slang/ An attack that penetrates your system where no attack has ever gone before.
+
+- Have an mechanism that promotes constantly finding new bugs.
+- Bug offers 
+- know your enemy?
+
+3. 
+
+-
 
