@@ -9,8 +9,11 @@ Source: https://www.schneier.com/crypto-gram-0809.html
 - our socetity is driven by data
 - our data can live on without us
 
-
 2.
+
+##Single Identity
+
+##Anonymity
 
 
 
