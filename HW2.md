@@ -13,9 +13,34 @@ Source: https://www.schneier.com/crypto-gram-0809.html
 
 ##Single Identity
 
+- there is no way for *anonymity*
+- it be very easy to *traceable* since there is only one place of origin
+- *privacy* goes straight out the window, and hard to maintain
+- unable to *deny* since it is tied to the identity
+- difficult to *repude* since it will tie to the identity
+- there is *accountabilty* 
+
+Examples of this:
+
+- PGP/GPG
+- facebook
+- twitter
+- email
+
 ##Anonymity
 
+- *anonymity* is natural advantage
+- it be very difficult to *traceable* 
+- *privacy* is now part of the system
+- able to *deny*
+- able to *repude*
+- there is no *accountabilty* 
 
+Examples of this:
+
+- reddit
+- 4chan
+- irc
 
 3.
 
