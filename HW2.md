@@ -90,10 +90,39 @@ c. Registering to get a passport
 
 - are
 
-You need to strongly idenify yourself for this strong form of identity. 
+You need to strongly identify yourself for this strong form of identity. 
 
-d. 
+d. Entering a secure research lab
+
+- are
+- have
+
+a combination of something you have (keypass, sec card) and something you are (photo id or fingerprint)
+
+e. Tour of a museam
+
+- have
+
+using just a keypass should be succifent
 
 
+f. ringing sysadmin
+
+- have
+- are
+
+since it will be hard to recongise your voice as a sysadmin, a one time password token would be ideal.
+
+Also if you want to get fancy you can verify the persons voice as well. 
 
 5.
+
+Source: https://en.wikipedia.org/wiki/Red_Queen_hypothesis
+
+1. hypothesis that organisms (or businesses in info sec case) must constantly adapt and evolve not just to satisfy its own needs but also survive with other organisms.
+
+1. it originated from the book :Through the Looking Glass" from Lewis carroll. From the quote from the Red Queen character "Now, here, you see, it takes all the running you can do, to keep in the same place."
+
+1. companies/ organisations will need to adapt and evolve their own offense and defense not to make their own security secure, but rather to prevent other entities being too powerful. 
+
+1. As you put in things to prevent attacks, the attacks will change as well so your preventation methods will change, which means the attacks will change. This causes an ever existing feedback loop of defense and offence.  
