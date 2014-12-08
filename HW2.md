@@ -63,5 +63,37 @@ d. hybrid or public
 
 4.
 
+a. Telephone banking
+
+- know
+  - password
+
+easy to use
+
+- have
+  - once time passwords
+  - apps
+
+easy to use
+
+can lose it
+
+b. Attending a lecture
+
+- know
+- have
+- are
+
+Depending on the cost and application all of these are appropriate. However something you have would be the quick and easy to deploy.
+
+c. Registering to get a passport
+
+- are
+
+You need to strongly idenify yourself for this strong form of identity. 
+
+d. 
+
+
 
 5.
