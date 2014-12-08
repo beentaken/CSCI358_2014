@@ -23,9 +23,14 @@ Source: https://www.schneier.com/crypto-gram-0809.html
 Examples of this:
 
 - PGP/GPG
+  - everyone on the keyserver knows who you are
+  - very transparent, not very anonymous
 - facebook
+  - little anonymity and very opaque in terms of what data they gather on you
 - twitter
+  - little anonymity and very opaque in terms of what data they gather on you
 - email
+  - some anomymity and there is a bit of metadata that can be gathered
 
 ##Anonymity
 
@@ -39,8 +44,11 @@ Examples of this:
 Examples of this:
 
 - reddit
-- 4chan
+  - lots of anonmity since you barely need any information about yourself (only username and password)
+  - they can still gather metadata
 - irc
+  - aside from ip address (which is easily spoofed) there heaps of anonmity
+  - transparent 
 
 3.
 
