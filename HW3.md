@@ -55,7 +55,7 @@ http://en.wikipedia.org/wiki/Biometrics
 
 #Q7.
 
-????
+Unsure
 
 #Q8.
 
@@ -78,7 +78,11 @@ a.
 
 b. 
 
-????
+- the system should have a very high false acceptance rate (ie it is more likely to fail even if you are correct)
+- the system should have a very low false rejection rate (ie it should less likely to if you are incorrect)
+
+- In the first case the auth can be verified by another means 
+- for the second case it very likely to allow someone to enter who is mallious
 
 c. 
 
@@ -86,3 +90,40 @@ http://link.springer.com/referenceworkentry/10.1007%2F978-0-387-73003-5_478
 
 >Security attacks based on generating artificial data, injecting it in the system and after analyzing the output, modify such data, as to improve the output. This is done recursively till the output is the desired result. In biometrics this attack can be used to generate a synthetic sample, by analyzing the matching score returned by the system.
 
+10.
+
+a. 
+
+- listening and recording other people conversions
+- falsely representing a scene for scams
+
+b.
+
+- uptime
+	- how do you ensure that the device is running all the time with no down time
+	- how you do know the device is not interfeared with
+- integity
+	- how you do ensure that the device did not have data inserted by an external source
+
+c.
+
+- confidentality
+	- you need to confident that that data is secure and stored as ciphertext until it needs to be accessed
+- integrity
+	- the data must not be able to be altered or misrepsented
+- authentication
+	- the device should be only be able to be used by you and the 'authorities'
+- anonymity
+	- this will not exist in this system, you are trying to identify people
+- traceabilty
+	- this is a feature of the system
+- privacy
+	- the data is only accessable by you and the authorities
+- denialabilty
+	- you should not be able to denial the data
+- non-repudiably
+	- this is the feature of the system
+- accountabilty
+	- this is a feature of the system
+- freshness
+	- the device should always be recording.
