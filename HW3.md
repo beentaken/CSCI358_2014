@@ -6,7 +6,7 @@
 
 ##Library
 
-- staff
+- staff (people who do things on behalf of library)
 - patron
 - contractor
 
