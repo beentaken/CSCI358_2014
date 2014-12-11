@@ -52,3 +52,33 @@ referenced
 http://en.wikipedia.org/wiki/Biometrics
 
 >equal error rate or crossover error rate (EER or CER): the rate at which both acceptance and rejection errors are equal. The value of the EER can be easily obtained from the ROC curve. The EER is a quick way to compare the accuracy of devices with different ROC curves. In general, the device with the lowest EER is the most accurate.
+
+#Q7.
+
+????
+
+#Q8.
+
+referenced
+http://en.wikipedia.org/wiki/Biometrics
+
+1. the sensor picks up details
+1. the gathered data is processed for clarification and cleaning
+1. the raw data is translated into a template
+1. biometric information is captured and stored
+1. subsequent uses are detected and compared to the original
+
+#Q9.
+
+a.
+
+- can repeat use key/ large key space
+- can reuse the same metric without isolation
+- is a one way transformation
+
+b. 
+
+????
+
+c.
+
