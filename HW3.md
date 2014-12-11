@@ -34,5 +34,21 @@ since there is a appearent weakspot in your systems you will know where the **li
 
 #Q5.
 
+Referenced
+https://en.wikipedia.org/wiki/Base_rate_fallacy
+https://en.wikipedia.org/wiki/Base_rate
 
+In terms of a base rate fallacy for false positive and false negatives it would be a case of
 
+You have a system and it has a 90% chance of identifying correctly positive and negatives. 
+
+However when it when incorrectly identifies it has a 99% chance of being the other case (*my phrasing is probs bad here*).
+
+Even thought it is unlikely of being incorrectly identified (10%) since people thing it it extremely likely to be the other case. However people will focus on the 99% since they are people even though it is unlikely to fall in that scenario.   
+
+#Q6.
+
+referenced
+http://en.wikipedia.org/wiki/Biometrics
+
+>equal error rate or crossover error rate (EER or CER): the rate at which both acceptance and rejection errors are equal. The value of the EER can be easily obtained from the ROC curve. The EER is a quick way to compare the accuracy of devices with different ROC curves. In general, the device with the lowest EER is the most accurate.
