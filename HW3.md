@@ -80,5 +80,9 @@ b.
 
 ????
 
-c.
+c. 
+
+http://link.springer.com/referenceworkentry/10.1007%2F978-0-387-73003-5_478
+
+>Security attacks based on generating artificial data, injecting it in the system and after analyzing the output, modify such data, as to improve the output. This is done recursively till the output is the desired result. In biometrics this attack can be used to generate a synthetic sample, by analyzing the matching score returned by the system.
 
