@@ -179,3 +179,20 @@ The difference is payout for everyone (which can lead to a better net payout) (n
 
 #Q7 humancambridgepreproc.pdf
 
+1. ordering wine
+  - properties
+    - secret commication
+    - integrity
+    - non-repudiation
+  - well optimized
+  - little threats
+- lessons learned
+  - repeated interactions give properites
+  - lacks formal notation but is very standard
+
+2. Voting
+  - lessons to learn
+    - when thinking about moving over to a new protocol we should consider what properties was good about the old system and that we are trying to replace
+    - 
+
+- Paying check 
