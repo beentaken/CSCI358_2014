@@ -9,6 +9,8 @@ Title: Finding People's Locations Based on Their Activities in Cyberspace
 
 ##Reason for choosing this topic
 
+I think as information security people we tend to be obsessed over the actual cryptographic methods but sometimes we tend to overlook the human factors and factors that are external to our systems. One of these are mobiles phones and the internet. And this article "Finding People's Locations Based on Their Activities in Cyberspace" is interesting as we can obfuscate and hide and encrypt our messages but we cant hide ourself.
+
 ##Summary of what this entry is about
 
 ##Security problem of reference
