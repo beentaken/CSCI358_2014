@@ -13,6 +13,11 @@ I think as information security people we tend to be obsessed over the actual cr
 
 ##Summary of what this entry is about
 
+This article is dealing with how a government security firms track people in the world via a various means. Namely using  
+- triangulation using GSM networks complemented from the use of drones
+- using wifi information 
+- using applications/ webapps since they leak geo-locations 
+
 ##Security problem of reference
 
 ##How it relates to the subject
