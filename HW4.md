@@ -20,12 +20,68 @@ This article is dealing with how a government security firms track people in the
 
 ##Security problem of reference
 
+- communicating securely over each of OSI layers
+- how modern technology (not that modern in terms of phone/ gsm, but modern for social networks or wifi networks)
+- full end to end encryption
+
 ##How it relates to the subject
+
+- 10: Physical Security
+- 11: Development of Secure Systems
 
 ##Challenge Question
 
+- How would you choose to balance of anonymity of people and traceability? 
+
 #Q3 Zoo Animal
 
+##Animal: Owl
+
+###Properties
+- can fly, cant swim
+- has feathers 
+- cant tolerate cold
+- needs to eat 
+- needs to drink
+- is nocturnal 
+- has talons
+- small
+
+###Secure Environment
+
+Note: Im defining secure as the animal can not harm itself and nothing external can harm it
+
+The owl should live in a closed off, perhaps covered by glass or net. The owl should be able to have access to food and water. The owl should be in a night cycle since it is a generally a nocturnal. The owl should be not be able to harm itself with its talons or harm others. 
+
+##Animal: Bear
+
+###Properties
+- cant fly, cant swim
+- has fur 
+- may tolerate cold
+- needs to eat 
+- needs to drink
+- very large 
+- powerful 
+- has claws
+
+##Animal: Fish
+
+###Properties
+- cant fly, can swim, cant be on land
+- has scales 
+- may tolerate cold
+- needs to eat 
+- needs to drink
+- is small
+- must be in water
+
+##General Properties
+
+- animal abilities
+- environment requirements 
+- dietary requirements
+- size requirements
 
 #Q4 RFC2196
 
