@@ -43,3 +43,19 @@ However when deleveloping code that is not used for a one off solution, it is mu
 
 #Q6 - Skype
 
+## a. Usage
+
+Skype is an application that allows you to communicate via voice, text, or video.
+
+## b. What advantages are there in having an evaluation that is independent?
+
+It should remove any company bias and theorically allow for more comprehesive analysis. 
+
+## c. What did the evaluator look at, and why?
+
+- Cy
+
+
+## i. 
+
+http://seclists.org/fulldisclosure/2005/Oct/533
