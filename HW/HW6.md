@@ -1,3 +1,8 @@
+Dilesh Mistry - 4075638 - CSCI358 HW6
+
+Source: https://github.com/silverly/CSCI358_2014/blob/master/HW/HW6.md
+
+
 #Q1 - READING
 
 #Q2 - Prisoner Dilemma
@@ -70,9 +75,7 @@ It should remove any company bias and theorically allow for more comprehesive an
 
 - integrity
 
-### 4. Messages transmitted through a Skype session are encrypted from Skype-end to 
-Skype-end. No intermediary node, if any exist, has access to the meaning of these 
-messages. 
+### 4. Messages transmitted through a Skype session are encrypted from Skype-end to Skype-end. No intermediary node, if any exist, has access to the meaning of these messages. 
 
 - confidientality
 
@@ -121,7 +124,9 @@ standards been superceded?
 > Integer overflow in Skype client before 1.4.x.84 on Windows, before 1.3.x.17 on Mac OS, before 1.2.x.18 on Linux, and 1.1.x.6 and earlier allows remote attackers to cause a denial of service (crash) via crafted network data with a large Object Counter value, which leads to a resultant heap-based buffer overflow.
 
 References: 
+
 http://seclists.org/fulldisclosure/2005/Oct/533
+
 http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2005-3267
 
 ## j. What is the overall impression of the evaluator?
