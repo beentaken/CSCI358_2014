@@ -115,6 +115,21 @@ standards been superceded?
 
 ## h. Why are the side–channel attacks not considered to be a serious issue against Skype?
 
-## i. 
+- since to perform this attack you need to be on the same platform of the skype client, which can lead to a much larger superset of issues
 
+## i. 
+> Integer overflow in Skype client before 1.4.x.84 on Windows, before 1.3.x.17 on Mac OS, before 1.2.x.18 on Linux, and 1.1.x.6 and earlier allows remote attackers to cause a denial of service (crash) via crafted network data with a large Object Counter value, which leads to a resultant heap-based buffer overflow.
+
+References: 
 http://seclists.org/fulldisclosure/2005/Oct/533
+http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2005-3267
+
+## j. What is the overall impression of the evaluator?
+
+Overall he was quite impressed, and felt that skype considered security well.
+
+## k. What signifcant changes have there been with Skype since this review?
+
+- microsoft bought out company
+- increased market share 
+- more clients platforms now (mobile)
