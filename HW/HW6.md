@@ -76,6 +76,45 @@ messages.
 
 - confidientality
 
-## e. 
+## e. Types of Skype Cryptography
+
+### Random Number Generation
+
+- used for cryptographic primitives
+- allows for messages to be encrypted (policy number 4)
+
+### Cryptographic primitives
+
+- used during the application for various uses
+- Used for authentication (2), and message encryption and decryption (4)
+
+
+### Peer-to-Peer Key Agreement Protocol
+
+- for key agreement between clients/ client-server
+- used for peer proving (2)
+
+## f. List the standards that the Skype design and implementation can be tied to. Have any of those
+standards been superceded?
+
+- AES
+	- Has not been superceded
+- RSA
+	- Not been superceded (however, small key sizes can be broken)
+- ISO 9796-2
+	- Not been superceded
+- SHA-1 Hash
+	- Superceded in some applications depends on usage
+- RC4
+	- Superceded in terms of it is recommended to use a modern stream cipher
+
+## g. How is protection against replay attacks provided?
+
+> The attacker could observe multiple handshakes involving a target node. This would give access to multiple challenges and responses. The attacker could then send a challenge to the target pretending to be a previous peer. The target would respond with a challenge of its own. If the target challenge was identical to one that the attacker had observed previously for this caller, the attacker could then answer the challenge correctly and proceed to the next aspects of the key exchange protocol. However, because challenges are 64 bits long and chosen at random, the probability of this happening is low. The chance of getting a challenge repeat from the client is, in the case of few observations, the number of observations N over the total possibilities, N / 2^64.
+
+
+## h. Why are the side–channel attacks not considered to be a serious issue against Skype?
+
+## i. 
 
 http://seclists.org/fulldisclosure/2005/Oct/533
