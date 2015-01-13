@@ -53,9 +53,29 @@ It should remove any company bias and theorically allow for more comprehesive an
 
 ## c. What did the evaluator look at, and why?
 
-- Cy
+- the system that underlies skype for security faults or issues, to help skype become a more secure system and remove obvious holes
+
+## d. For each of those policy statements what cryptographic property is being provided?
+
+### 1. Skype usernames are unique.
+
+- traceablity
+
+### 2. Users or applications must present a Skype username and its associated authentication credential (e.g., password) before they exercise that username’s identity or privileges. 
+
+- authentication
 
 
-## i. 
+### 3. Each peer correctly provides the other with proof of its username and privileges whenever a Skype session is established. Each verifies the other’s proof before the session is allowed carry messages (e.g., voice, video, files, or text). 
+
+- integrity
+
+### 4. Messages transmitted through a Skype session are encrypted from Skype-end to 
+Skype-end. No intermediary node, if any exist, has access to the meaning of these 
+messages. 
+
+- confidientality
+
+## e. 
 
 http://seclists.org/fulldisclosure/2005/Oct/533
