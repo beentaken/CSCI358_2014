@@ -37,14 +37,24 @@ with respect to the mantra.
 - respond
 	- big people look scary and might be able to solve a issue
 
-##b. Consider an example of a physical security mechanism that doesn’t fall into one of the above
-classes. See how it serves with respect to the mantra.
+##b. Consider an example of a physical security mechanism that doesn’t fall into one of the above classes. See how it serves with respect to the mantra.
 
-ID Card/ Token
-
-it it used for access but not preventation
+ID Card/ Token; It used for access but not preventation
 
 ##c. Are there equivalents to all or some of the five components in the context of information security? What, if any, would they be and why?
+
+###Reference
+Cherdantseva and J. Hilton, "A Reference Model of Information Assurance & Security," Availability, Reliability and Security (ARES), 2013 Eighth International Conference on , vol., no., pp.546-555, IEEE, doi: 10.1109/ARES.2013.72, 2–6 September 2013. 
+The new IAS-octave
+
+- confidentiality
+- integrity
+- availability 
+- Accountability
+- Auditability
+- Authenticity
+- Non-repudiation
+- Privacy
 
 #2. Read the Scientific America article that can be found in `HW7-People-Tricked.pdf`. Consider the effect this type of effect, `choice blindness`, might have in making choices on the internet. Try and think of a way this could be exploited in an online attack.
 
@@ -57,3 +67,4 @@ it it used for access but not preventation
 ##b. Are there any significant gaps in your knowlege?
 
 ##c. Have a look at `HW7-The Ramp.pdf` too
+
