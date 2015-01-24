@@ -76,3 +76,5 @@ However, if i start making more notes, ill be more likely to remember.
 ##c. Have a look at `HW7-The Ramp.pdf` too
 
 READING.
+
+(OH GOD, I KNOW THINGS AND I KNOW I DONT KNOW THINGS, BUT I NEVER CAN COMPREHEND HOW MUCH I DONT KNOW)
