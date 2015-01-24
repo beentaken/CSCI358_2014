@@ -61,10 +61,18 @@ Risk Homeostatsis is a person calcaction of risk which includes:
 > - Expected benefits of safe behavior (e.g., insurance discounts for accident-free periods, enhancement of reputation of responsibility)
 > - Expected costs of safe behavior (e.g., using an uncomfortable seat belt, being called a coward by one's peers, time loss)
 
+
 #4. Look at `HW7-Information Security Interview Questions.pdf`.
 
 ##a. How many of those could you correctly/usefully answer?
 
+About half.
+
 ##b. Are there any significant gaps in your knowlege?
 
+Yes, i dont remember the details of many aspects of many things, but i know where i might look for it (i think). 
+However, if i start making more notes, ill be more likely to remember. 
+
 ##c. Have a look at `HW7-The Ramp.pdf` too
+
+READING.
