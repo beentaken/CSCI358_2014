@@ -37,28 +37,29 @@ with respect to the mantra.
 - respond
 	- big people look scary and might be able to solve a issue
 
-##b. Consider an example of a physical security mechanism that doesn’t fall into one of the above classes. See how it serves with respect to the mantra.
+##b. Consider an example of a physical security mechanism that doesn’t fall into one of the above
+classes. See how it serves with respect to the mantra.
 
-ID Card/ Token; It used for access but not preventation
+ID Card/ Token
+
+it it used for access but not preventation
 
 ##c. Are there equivalents to all or some of the five components in the context of information security? What, if any, would they be and why?
 
-###Reference
-Cherdantseva and J. Hilton, "A Reference Model of Information Assurance & Security," Availability, Reliability and Security (ARES), 2013 Eighth International Conference on , vol., no., pp.546-555, IEEE, doi: 10.1109/ARES.2013.72, 2–6 September 2013. 
-The new IAS-octave
-
-- confidentiality
-- integrity
-- availability 
-- Accountability
-- Auditability
-- Authenticity
-- Non-repudiation
-- Privacy
-
 #2. Read the Scientific America article that can be found in `HW7-People-Tricked.pdf`. Consider the effect this type of effect, `choice blindness`, might have in making choices on the internet. Try and think of a way this could be exploited in an online attack.
 
+It would be really good for phishing or a pyramid scheme, since you can offer actual rewards to gain trust and then use the the gained trust to scam someone. 
+
 #3. What is risk homeostasis and how does it relate to this subject? Make up an example in the context of information security.
+
+## Reference: 
+Wilde (1998). "Risk homeostasis theory: an overview". Injury Prevention 4 (2): 89. doi:10.1136/ip.4.2.89.
+
+Risk Homeostatsis is a person calcaction of risk which includes:  
+> - Expected benefits of risky behavior (e.g., gaining time by speeding, fighting boredom, increasing mobility)
+> - Expected costs of risky behavior (e.g., speeding tickets, car repairs, insurance surcharges)
+> - Expected benefits of safe behavior (e.g., insurance discounts for accident-free periods, enhancement of reputation of responsibility)
+> - Expected costs of safe behavior (e.g., using an uncomfortable seat belt, being called a coward by one's peers, time loss)
 
 #4. Look at `HW7-Information Security Interview Questions.pdf`.
 
@@ -67,4 +68,3 @@ The new IAS-octave
 ##b. Are there any significant gaps in your knowlege?
 
 ##c. Have a look at `HW7-The Ramp.pdf` too
-
