@@ -42,9 +42,11 @@ classes. See how it serves with respect to the mantra.
 
 ID Card/ Token
 
-it it used for access but not preventation
+it can used for access but not preventation
 
 ##c. Are there equivalents to all or some of the five components in the context of information security? What, if any, would they be and why?
+
+
 
 #2. Read the Scientific America article that can be found in `HW7-People-Tricked.pdf`. Consider the effect this type of effect, `choice blindness`, might have in making choices on the internet. Try and think of a way this could be exploited in an online attack.
 
