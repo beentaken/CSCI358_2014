@@ -18,3 +18,21 @@ However, if drugs were legal then there are no problems. So i feel that the plac
 |2060|116|108|256|
 |2075|128|118|256|
 |2090|139|128|256|
+
+#Q3 Schnier Newsletter
+##Buying Exploits on the Grey Market
+
+Reference: https://www.schneier.com/crypto-gram/archives/2012/0415.html#8
+
+###(a) Why did you choose this particular topic?
+
+I think that this is still a concern for infosec for years to come. People finding bugs but not reporting it (you could even include as grey hat). 
+
+###(b) A summary of what the entry is about.
+
+Companies buying zero-day exploits for popular applications or platforms. The article refers to buying the exploits for bug bounty programs or for espionage or cyber weapons. 
+
+###(c) An identification of the security problem of relevance.
+###(d) If possible, an indication of how the entry relates to the subject.
+###(e) If possible, an indication as to whether the problem discussed is still a problem.
+###(f) If possible, a relevant challenge question for the class.
