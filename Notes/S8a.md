@@ -43,7 +43,7 @@
 
 - regression testing
 - security testing
-- show that each control objectice is assured by one protection mechanism
+- show that each control objective is assured by one protection mechanism
 - checking if working
 	- fault injection
 	- fuzzing
@@ -57,3 +57,13 @@
 - how
 - what
 
+- ISO9001
+
+####Capability Maturity Model
+
+-informal
+1. Initial
+2. Repeatable
+3. Defined
+4. Managed
+5. Optimizing
